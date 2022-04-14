@@ -7,7 +7,7 @@ A GUI Password Manager made in Python as a challenge of an online course project
 
 
 <h3>REQUIREMENTS</h3>
-Linux: Tested in Ununtu 20.04, but any modern Linux distro should do.<br><br>
+Linux: Tested in Ununtu 20.04, but any modern Linux distro should do.<br>
 Windows: Tested in Windows 10.<br><br>
 If you are planning on running the program from source, make sure to install the <b>tkinter</b> and <b>pyperclip</b> python modules.
 
